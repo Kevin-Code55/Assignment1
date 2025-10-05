@@ -1,0 +1,46 @@
+/*Mobile Viewpoert*/
+
+/* Text Size Adjustment for Mobile*/
+body {
+    font-size: 14px;
+
+}
+
+/* Navigation For Mobile */
+.nav ul{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+.nav li{
+    display: block;
+    float: none;
+    margin: 8px 0;
+}
+
+/* Logo and Center Text for Mobile */
+header .logo{
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+
+/* Sections for Project for Mobile */
+.project-item{
+    width: 100%;
+    margin: 10px 0;
+    float: none;
+}
+
+/* Form reconfig for Mobile */
+form{
+    width: 95%;
+    margin: 0 auto;
+}
+
+/* Media Resize for Mobile */
+img, video {
+    width: 100%;
+    height : auto;
+}
+

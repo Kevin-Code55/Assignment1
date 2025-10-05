@@ -1,0 +1,26 @@
+/* Desktop Viewport */
+
+/* Font size for Desktop Viewport*/
+body{ 
+    font-size: 18px;
+}
+
+/* Navigation for Desktop */
+.nav li{
+    float: left;
+    margin-right: 20px;
+
+}
+
+/* Project Page for Desktop */
+.project-item{
+    width: 360px;
+    margin-right: 20px;
+    float: left;
+}
+
+/* Desktop Width Recongig for Form */
+form{
+    width: 400px;
+    margin: 0 auto;
+}

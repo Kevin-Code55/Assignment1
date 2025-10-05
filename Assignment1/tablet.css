@@ -1,0 +1,39 @@
+/*Tablet Viewpoert*/
+
+/* Text Size Adjustment for Tablet*/
+body {
+    font-size: 16px;
+
+}
+
+/* Navigation For Tablet */
+.nav ul{
+    padding: 0;
+    text-align: center;
+
+}
+.nav li{
+    display: block;
+    float: none;
+    margin: 0 15px;
+}
+
+
+/* Sections for Project for Tablet */
+.project-item{
+    width: 45%;
+    margin: 2%;
+    float: left;
+}
+
+/* Form reconfig for tablet */
+form{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Media Resize for Tablet */
+img, video {
+    width: 90%;
+    height : auto;
+}
